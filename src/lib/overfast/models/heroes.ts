@@ -1,0 +1,25 @@
+import type { OverfastModel } from "./base";
+
+export type Ability = OverfastModel<"Ability">;
+export type AbilityVideo = OverfastModel<"AbilityVideo">;
+export type AbilityVideoLink = OverfastModel<"AbilityVideoLink">;
+export type BackgroundImageSize = OverfastModel<"BackgroundImageSize">;
+export type Hero = OverfastModel<"Hero">;
+export type HeroBackground = OverfastModel<"HeroBackground">;
+export type HeroGamemode = OverfastModel<"HeroGamemode">;
+export type HeroKey = OverfastModel<"HeroKey">;
+export type HeroKeyCareerFilter = OverfastModel<"HeroKeyCareerFilter">;
+export type HeroShort = OverfastModel<"HeroShort">;
+export type HeroStat = OverfastModel<"HeroStat">;
+export type HeroStatsSummary = OverfastModel<"HeroStatsSummary">;
+export type HeroesComparisons = OverfastModel<"HeroesComparisons">;
+export type HeroesStats = OverfastModel<"HeroesStats">;
+export type HitPoints = OverfastModel<"HitPoints">;
+export type Perk = OverfastModel<"Perk">;
+export type PerksContainer = OverfastModel<"PerksContainer">;
+export type Role = OverfastModel<"Role">;
+export type RoleDetail = OverfastModel<"RoleDetail">;
+export type StadiumPower = OverfastModel<"StadiumPower">;
+export type Story = OverfastModel<"Story">;
+export type StoryChapter = OverfastModel<"StoryChapter">;
+export type SubRole = OverfastModel<"SubRole">;
